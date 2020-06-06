@@ -1,2 +1,2 @@
 # SOSCSRPG
-Scott Lilly's updated RPG in c#.
+Scott Lilly's updated RPG in C#.
